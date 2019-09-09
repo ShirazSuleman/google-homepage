@@ -6,3 +6,12 @@
     width: 24px;
     height: 24px;
 }
+
+#nav > a {
+    font-family: arial,sans-serif;
+    color: rgba(0,0,0,0.87);
+    font-size: 13px;
+    text-align: right;
+    padding: 0 10px;
+    text-decoration: none;
+}
