@@ -3,15 +3,21 @@
 }
 
 #appDrawer {
-    width: 24px;
-    height: 24px;
+    background-image: url(../images/google_images.png);
+    background-size: 528px 68px;
+    background-position: -132px -38px;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    opacity: .55;
+    vertical-align: middle;
+    box-sizing: border-box;
 }
 
 #nav > a {
     font-family: arial,sans-serif;
     color: rgba(0,0,0,0.87);
     font-size: 13px;
-    text-align: right;
     padding: 0 10px;
     text-decoration: none;
 }
